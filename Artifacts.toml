@@ -1,0 +1,143 @@
+[[NOVAS]]
+arch = "aarch64"
+git-tree-sha1 = "adf0d39ea21315feafea532c72fb6631d08e4515"
+os = "macos"
+
+    [[NOVAS.download]]
+    sha256 = "8e0d02c1ac0d13690506b4b40fb8e6339d3bb7140293c24edca3a64dc741dd0a"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.aarch64-apple-darwin.tar.gz"
+[[NOVAS]]
+arch = "aarch64"
+git-tree-sha1 = "33ec957133753170ee416ca217a321b1ee39606e"
+libc = "glibc"
+os = "linux"
+
+    [[NOVAS.download]]
+    sha256 = "2a5827eddb0bcdd98b35195492c6c04eabc803c41e3eeda1eebde92670428f45"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.aarch64-linux-gnu.tar.gz"
+[[NOVAS]]
+arch = "aarch64"
+git-tree-sha1 = "207527970c541f40f46daa9da3dd885b52064fcf"
+libc = "musl"
+os = "linux"
+
+    [[NOVAS.download]]
+    sha256 = "46366d3baa8e9cafedd0334b85e561a5bbfda194a4ba87ca66f6abf7d9106648"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.aarch64-linux-musl.tar.gz"
+[[NOVAS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "69800991215d1c54dd4675041022dce4f9abd50f"
+libc = "glibc"
+os = "linux"
+
+    [[NOVAS.download]]
+    sha256 = "8ef226664a5c7132339298db7400feadb925820617b9d3144145ef586a1cb7fa"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[NOVAS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8465dbff3fb6df213ca0d7f7bd6fa7412e6c752c"
+libc = "musl"
+os = "linux"
+
+    [[NOVAS.download]]
+    sha256 = "077c1af8b947d05763078d6564f3b5c45f5e4bd7383f3f1bd187b5e17fab27bb"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.armv6l-linux-musleabihf.tar.gz"
+[[NOVAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ee9e67e1671383a3e15c1121a9d2fabf87ac7962"
+libc = "glibc"
+os = "linux"
+
+    [[NOVAS.download]]
+    sha256 = "a494150bb341ca8f2d1b30c147b73d2d8bcfe7de7705a4ef39be184aa6d5fda6"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[NOVAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a53c6d082a331fd42f7c3e50631ef4ea2072a937"
+libc = "musl"
+os = "linux"
+
+    [[NOVAS.download]]
+    sha256 = "36b2785927e7f88b309ab59b07c13dfbe26257be067dbe96c92dafe6dba509b2"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.armv7l-linux-musleabihf.tar.gz"
+[[NOVAS]]
+arch = "i686"
+git-tree-sha1 = "63ffa6c8f61e3e391b80b908757053bf60de4fa3"
+libc = "glibc"
+os = "linux"
+
+    [[NOVAS.download]]
+    sha256 = "548cf963167714ec7c3214274d17bbd669ccaf533b4d114c14cf330affb37b25"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.i686-linux-gnu.tar.gz"
+[[NOVAS]]
+arch = "i686"
+git-tree-sha1 = "f075189ce9feb9514ac92fa4d5136b21ed21de4c"
+libc = "musl"
+os = "linux"
+
+    [[NOVAS.download]]
+    sha256 = "768df71e5f6fb37ca9b9f3d6a5c9fa888a21d53b1d22fd97d91fc45857a8b232"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.i686-linux-musl.tar.gz"
+[[NOVAS]]
+arch = "i686"
+git-tree-sha1 = "804b7ed0b26e5dbd202b7863adb89f59a71afe7c"
+os = "windows"
+
+    [[NOVAS.download]]
+    sha256 = "5b328cb655861f8dd333901fc4d4ad6842927442a0b4b23e5a352b45dad7a551"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.i686-w64-mingw32.tar.gz"
+[[NOVAS]]
+arch = "powerpc64le"
+git-tree-sha1 = "6264525d21a8a339dfed673fc7ac5814b7ee4f90"
+libc = "glibc"
+os = "linux"
+
+    [[NOVAS.download]]
+    sha256 = "ccdb817dd88b98d09db0aa60f6f2a37f878e242954fb0e29eaef4529fc327d62"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.powerpc64le-linux-gnu.tar.gz"
+[[NOVAS]]
+arch = "x86_64"
+git-tree-sha1 = "e494d95d7bc6519c4ad731c128c67e45bad6f06e"
+os = "macos"
+
+    [[NOVAS.download]]
+    sha256 = "5643990ee857a0a98819673ada2ed538f533ef70f9f6c2d2047431f3ac1b578f"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.x86_64-apple-darwin.tar.gz"
+[[NOVAS]]
+arch = "x86_64"
+git-tree-sha1 = "39224acf51b0256310913177fdc2300162e2fc62"
+libc = "glibc"
+os = "linux"
+
+    [[NOVAS.download]]
+    sha256 = "fbf6b94dfe2322e43ff40f58126c61ac80abec462154b87059b3f139ea22cc86"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.x86_64-linux-gnu.tar.gz"
+[[NOVAS]]
+arch = "x86_64"
+git-tree-sha1 = "1dc72f875c5d1d04dbd3434ebafabca9ff3322f6"
+libc = "musl"
+os = "linux"
+
+    [[NOVAS.download]]
+    sha256 = "6758c2d6dc34b9631d355a386bd7204cb1f3bb21828b1e972a39acbdd97870e7"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.x86_64-linux-musl.tar.gz"
+[[NOVAS]]
+arch = "x86_64"
+git-tree-sha1 = "4fa05c0f957eafbb1c5ed4758d65813ba13174d1"
+os = "freebsd"
+
+    [[NOVAS.download]]
+    sha256 = "0273b9423ad14c6e1e876ebd1da2b863c4e9d5eb4e0fbbeec8982b1775904529"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.x86_64-unknown-freebsd.tar.gz"
+[[NOVAS]]
+arch = "x86_64"
+git-tree-sha1 = "baba83d2a71762f2b6fcd4b34da5421f434250bd"
+os = "windows"
+
+    [[NOVAS.download]]
+    sha256 = "43c6e81b6270be1de20745b311db94b1a3217b0e98b4d0505ff72fca96dad5b9"
+    url = "https://github.com/JuliaBinaryWrappers/NOVAS_jll.jl/releases/download/NOVAS-v3.1.0+0/NOVAS.v3.1.0.x86_64-w64-mingw32.tar.gz"
