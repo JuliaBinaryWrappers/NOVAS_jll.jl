@@ -1,6 +1,6 @@
 name = "NOVAS_jll"
 uuid = "0c6c9120-0c4d-51e7-92ed-b5d3e78608aa"
-version = "3.1.0+0"
+version = "3.1.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
